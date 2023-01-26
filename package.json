@@ -1,0 +1,17 @@
+{
+  "name": "checkpointexp",
+  "version": "1.0.0",
+  "description": "checkpoint express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "elghorez lamjed",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "get-google-fonts": "^1.2.2"
+  }
+}
